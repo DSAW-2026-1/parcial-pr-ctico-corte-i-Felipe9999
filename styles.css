@@ -27,3 +27,29 @@ body {
 	background: #4a90e2;
 }
 
+/* Position the first four squares at the container corners */
+.center-container .square:nth-child(1) {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	margin: 0;
+}
+.center-container .square:nth-child(2) {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	margin: 0;
+}
+.center-container .square:nth-child(3) {
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+	margin: 0;
+}
+.center-container .square:nth-child(4) {
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+	margin: 0;
+}
+

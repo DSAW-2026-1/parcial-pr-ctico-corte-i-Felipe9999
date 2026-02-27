@@ -27,3 +27,9 @@ Patching styles.css now to remove flex/border/padding and add position: relative
 
 Done — center-container is no longer a flexbox, has no border or padding, and now has position: relative (file changed: styles.css). Remaining step: verify the layout in a browser — want me to open it for you?
 
+Prompt 4: Using the properties of absolute positioning, set the first four square divs to each corner of center-container
+Respuesta 4: I'll update the todo list then patch styles.css to absolutely position the first four squares at the container corners.
+
+Done — the first four squares are now absolutely positioned in each corner of the container (file changed: styles.css).
+
+Next: verify in a browser — want me to open the file for you?
