@@ -53,3 +53,29 @@ body {
 	margin: 0;
 }
 
+/* Position the last four squares at the corners with 80px horizontal offset */
+.center-container .square:nth-child(5) {
+	position: absolute;
+	top: 20px;
+	left: 80px;
+	margin: 0;
+}
+.center-container .square:nth-child(6) {
+	position: absolute;
+	top: 20px;
+	right: 80px;
+	margin: 0;
+}
+.center-container .square:nth-child(7) {
+	position: absolute;
+	bottom: 20px;
+	left: 80px;
+	margin: 0;
+}
+.center-container .square:nth-child(8) {
+	position: absolute;
+	bottom: 20px;
+	right: 80px;
+	margin: 0;
+}
+
