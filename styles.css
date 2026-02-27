@@ -27,6 +27,11 @@ body {
 	background: #4a90e2;
 }
 
+/* Circle utility */
+.circle {
+	border-radius: 50%;
+}
+
 /* Position the first four squares at the container corners */
 .center-container .square:nth-child(1) {
 	position: absolute;

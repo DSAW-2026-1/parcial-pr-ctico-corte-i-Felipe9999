@@ -40,3 +40,12 @@ Respuesta 5: I'll add CSS rules to absolutely position the last four squares wit
 Done — squares 5–8 are placed in the container corners with 80px horizontal offsets (file updated: styles.css).
 
 Progress: all CSS/HTML edits complete. Next: open the page in a browser to verify visual layout — would you like me to open it now?
+
+Prompt 6: Create a CSS class named circle, that sets the border-radius property to make a div into a circle, and apply it to the 3rd, 4th, 5th and 6th square
+Respuesta 6: I'll add a TODO for the circle work, then patch index.html and styles.css.
+
+Done.
+
+What I changed: added a .circle class and applied it to squares 3–6.
+Files: index.html, styles.css
+Next: verify the layout in a browser—should I open the page now?
